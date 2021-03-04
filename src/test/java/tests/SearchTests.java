@@ -21,7 +21,7 @@ public class SearchTests extends CoreTest{
 }
 
     @Test
-    @Description(value = "Проверка негативного поиска (не должно быть результатов)")1
+    @Description(value = "Проверка негативного поиска (не должно быть результатов)")
     public void testNegativeSearch(){
         mainPage.openMainPage();
         mainPage.makeSearch("*??:%!@#$%:?*");
