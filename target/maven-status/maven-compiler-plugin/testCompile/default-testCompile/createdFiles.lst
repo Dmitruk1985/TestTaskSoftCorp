@@ -1,0 +1,6 @@
+tests\SearchResultsTests.class
+pageObjects\SearchResults.class
+pageObjects\CorePage.class
+tests\CoreTest.class
+pageObjects\MainPage.class
+tests\SearchTests.class

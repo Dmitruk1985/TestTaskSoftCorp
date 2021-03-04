@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SearchResults" duration-ms="154133" started-at="2021-03-04T09:44:09Z" finished-at="2021-03-04T09:46:43Z">
+    <groups>
+    </groups>
+    <test name="SearchResultsTests" duration-ms="154133" started-at="2021-03-04T09:44:09Z" finished-at="2021-03-04T09:46:43Z">
+      <class name="tests.SearchResultsTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="89" started-at="2021-03-04T09:44:09Z" finished-at="2021-03-04T09:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testAllSearchResultsContainsSearchValue()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testAllSearchResultsContainsSearchValue" duration-ms="24331" started-at="2021-03-04T09:44:09Z" finished-at="2021-03-04T09:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllSearchResultsContainsSearchValue -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:44:34Z" finished-at="2021-03-04T09:44:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testClearSearchResultsInput()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testClearSearchResultsInput" duration-ms="9422" started-at="2021-03-04T09:44:34Z" finished-at="2021-03-04T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClearSearchResultsInput -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:44:43Z" finished-at="2021-03-04T09:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testClickBet()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testClickBet" duration-ms="8760" started-at="2021-03-04T09:44:43Z" finished-at="2021-03-04T09:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClickBet -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:44:52Z" finished-at="2021-03-04T09:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCloseSearchResultsPopup()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testCloseSearchResultsPopup" duration-ms="9554" started-at="2021-03-04T09:44:52Z" finished-at="2021-03-04T09:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCloseSearchResultsPopup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:45:01Z" finished-at="2021-03-04T09:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testEmptySearchFromSearchResults()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testEmptySearchFromSearchResults" duration-ms="9153" started-at="2021-03-04T09:45:01Z" finished-at="2021-03-04T09:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptySearchFromSearchResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:45:11Z" finished-at="2021-03-04T09:45:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLiveResultsAreNotDisplayed()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testLiveResultsAreNotDisplayed" duration-ms="8480" started-at="2021-03-04T09:45:11Z" finished-at="2021-03-04T09:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLiveResultsAreNotDisplayed -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:45:19Z" finished-at="2021-03-04T09:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNegativeSearchFromSearchResults()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testNegativeSearchFromSearchResults" duration-ms="8970" started-at="2021-03-04T09:45:19Z" finished-at="2021-03-04T09:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeSearchFromSearchResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="1" started-at="2021-03-04T09:45:28Z" finished-at="2021-03-04T09:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNewTabWithSearchResultContainsSearchValue()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testNewTabWithSearchResultContainsSearchValue" duration-ms="18645" started-at="2021-03-04T09:45:28Z" finished-at="2021-03-04T09:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNewTabWithSearchResultContainsSearchValue -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:45:47Z" finished-at="2021-03-04T09:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNoResultsAreDisplayed()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testNoResultsAreDisplayed" duration-ms="19590" started-at="2021-03-04T09:45:47Z" finished-at="2021-03-04T09:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNoResultsAreDisplayed -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:46:06Z" finished-at="2021-03-04T09:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testNumberOfSearchResultsMatchesReality()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testNumberOfSearchResultsMatchesReality" duration-ms="9593" started-at="2021-03-04T09:46:06Z" finished-at="2021-03-04T09:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumberOfSearchResultsMatchesReality -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="1" started-at="2021-03-04T09:46:16Z" finished-at="2021-03-04T09:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testPositiveSearchFromSearchResults()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testPositiveSearchFromSearchResults" duration-ms="8806" started-at="2021-03-04T09:46:16Z" finished-at="2021-03-04T09:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositiveSearchFromSearchResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:46:25Z" finished-at="2021-03-04T09:46:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchValueMatchesValueAtSearchResults()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testSearchValueMatchesValueAtSearchResults" duration-ms="9395" started-at="2021-03-04T09:46:25Z" finished-at="2021-03-04T09:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchValueMatchesValueAtSearchResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="setUp" is-config="true" duration-ms="0" started-at="2021-03-04T09:46:34Z" finished-at="2021-03-04T09:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSportsResultsAreNotDisplayed()[pri:0, instance:tests.SearchResultsTests@d8305c2]" name="testSportsResultsAreNotDisplayed" duration-ms="9032" started-at="2021-03-04T09:46:34Z" finished-at="2021-03-04T09:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSportsResultsAreNotDisplayed -->
+      </class> <!-- tests.SearchResultsTests -->
+    </test> <!-- SearchResultsTests -->
+  </suite> <!-- SearchResults -->
+</testng-results>

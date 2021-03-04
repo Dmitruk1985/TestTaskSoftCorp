@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Search" verbose="1">
+    <test name="SearchTests" thread-count="2" parallel="tests">
+        <classes>
+            <class name="tests.SearchTests"/>
+        </classes>
+    </test>
+</suite>
